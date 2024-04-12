@@ -1,10 +1,24 @@
-body{
-  background-color: cornsilk;
+body {
+  background-color: rgb(131, 253, 255);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.list{
+.list {
   font-weight: bold;
-font-size: 32px;
+  font-size: 32px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(28, 0, 80);
+}
 
+.title {
+  color: blueviolet;
+}
+
+p {
+  font-size: medium;
+  font-style: italic;
+  color: rgb(15, 0, 75);
+}
+a{
+  color: rgb(255, 0, 0);
 }
